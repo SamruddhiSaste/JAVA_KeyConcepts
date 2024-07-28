@@ -1,7 +1,7 @@
 package JAVA_KeyConcepts.Collection.Iterator.Enumeration_Vector_stack;
 
 import java.util.*;
-public class Demo1 {
+class Demo1 {
 
         int x;
 
@@ -14,7 +14,7 @@ public class Demo1 {
         }   
 }
 
-class VectorDemo{
+public class VectorDemo1{
     public static void main(String[] args) {
 
         Vector v = new Vector();
